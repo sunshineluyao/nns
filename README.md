@@ -15,7 +15,7 @@
 > Age
 ![](figures/multiplier_age.png)
 > Combined
-![](multiplier_age_duration96.png)
-![](multiplier_age_fix_duration.png)
-![](multiplier_combined.png)
-![](multiplier_combined_2.png)
+![](figures/multiplier_age_duration96.png)
+![](figures/multiplier_age_fix_duration.png)
+![](figures/multiplier_combined.png)
+![](figures/multiplier_combined_2.png)
