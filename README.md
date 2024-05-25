@@ -15,6 +15,7 @@ To replicate the results of our study using the provided notebook, follow these 
 **Clone the Repository**:
    ```bash
    git clone https://github.com/SciEcon/nns.git
+```
    
 Alternatively, you can download the repository as a ZIP file and extract it at your preferred location.
 
